@@ -1,3 +1,4 @@
+bank_info: "Nama Bank: BCA\nNo. Rekening: 1234567890\nAtas Nama: Nama Pemilik"
 bot_token: "YOUR_BOT_TOKEN"
 approved_users:
   - 123456789  # Replace with approved Telegram ID
